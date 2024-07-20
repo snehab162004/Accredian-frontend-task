@@ -21,7 +21,7 @@ export default function Navbar() {
                     <div className="h-[30%] w-[30%] md:w-[60%]">
                     <img style={logoSize}  className="pt-3 object-contain md:w-[60%] md:h-auto lg:pl-5 lg:w-[80%] h-[100%]" src={logo} alt="logo" />
                     </div>
-                    <a href="#" className="text-left pr-5 pt-3 pointer tracking-widest md:text-lg lg:text-xl lg:pr-40">Refer&Earn</a>
+                    <a href="#" className="text-left pr-5 pt-3 pointer tracking-widest  lg:pr-40">Refer&Earn</a>
                     
         </nav>
         </div>
