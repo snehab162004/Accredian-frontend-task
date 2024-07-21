@@ -56,7 +56,7 @@ function Home() {
         height: '20%',
         position: 'relative',
         left: 0,
-        top: '-300px',
+        top: '-250px',
     }
 
     const imgStyle2 = {
